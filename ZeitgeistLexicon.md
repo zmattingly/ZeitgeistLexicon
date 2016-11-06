@@ -1,7 +1,6 @@
 # Zeitgeist Lexicon
 
 ## Table of Contents
-=================
    * [Zeitgeist Lexicon](#zeitgeist-lexicon)
       * [Word, brother, no problem.](#word-brother-no-problem)
       * [It Pays to Have Word Ability](#it-pays-to-have-word-ability)
