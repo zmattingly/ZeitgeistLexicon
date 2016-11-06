@@ -320,3 +320,15 @@
 * **Agent Smith**: I hate this place. This zoo. This prison. This reality, whatever you want to call it, I can't stand it any longer. It's the smell, if there is such a thing. I feel saturated by it. I can taste your stink and every time I do, I fear that I've somehow been infected by it.
 
 [Return to Top](#zeitgeist-lexicon)
+
+## Client Services Achievements
+* **Just another bug hunt**: Found five bugs during a single round of regression testing.
+* **Bomb squad**: Troubleshoot and resolve a bomb message.
+* **Changing of the guard**: Train a new primary admin on the system after the original admin leaves.
+* **Do You Kiss Your Boss with That Mouth?**: Have a client drop and f-bomb during a phone conversation.
+* **Never Leave Your Wingman**: Assist another CS rep in a phone call.
+* **Once More unto the Breach**: Complete a round of regression testing.
+* **Spring Cleaning**: Remove a customization that has since been productized.
+* **We Have to go Deeper**: Place a community within a community within a community.
+
+[Return to Top](#zeitgeist-lexicon)
