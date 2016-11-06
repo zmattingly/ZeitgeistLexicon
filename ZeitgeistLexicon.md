@@ -321,11 +321,178 @@
 
 [Return to Top](#zeitgeist-lexicon)
 
+## Literature
+
+### TheNow - Burroughs ([Full Text](http://mogadonia.tumblr.com/post/44274156/doing-easy-an-essay-by-william-s-burroughs))
+> DE is a way of doing. It is a way of doing everything you do. DE simply means doing whatever you do in the easiest most relaxed way you can manage which is also the quickest and most efficient way, as you will find as you advance in DE.  
+
+> You can start right now tidying up your flat, moving furniture or books, washing dishes, making tea, sorting papers. Consider the weight of objects exactly how much force is needed to get the object from here to there. Consider its shape and texture and function where exactly does it belong. Use just the amount of force necessary to get the object from here to there. Don't fumble, jerk, grab an object. Drop cool possessive fingers onto it like a gentle old cop making a soft arrest. Guide the dustpan lightly to the floor as if you were landing a plane. When you touch an object weigh it with your fingers, feel your fingers on the object, the skin, blood, muscles, tendons of you hand and arm. Consider these extensions of yourself as precision instruments to perform every movement smoothly and well. Handle objects with consideration and they will show you all their little tricks...
+
+### Kubla Khan, or a Vision in a Dream. A Fragment - Coleridge
+> In Xanadu did Kubla Khan  
+A stately pleasure-dome decree:  
+Where Alph, the sacred river, ran  
+Through caverns measureless to man  
+Down to a sunless sea.  
+
+> So twice five miles of fertile ground  
+With walls and towers were girdled round:  
+And there were gardens bright with sinuous rills,  
+Where blossomed many an incense-bearing tree;  
+And here were forests ancient as the hills,  
+Enfolding sunny spots of greenery.  
+  
+> But oh! that deep romantic chasm which slanted  
+Down the green hill athwart a cedarn cover!  
+A savage place! as holy and enchanted  
+As e'er beneath a waning moon was haunted  
+By woman wailing for her demon-lover!  
+And from this chasm, with ceaseless turmoil seething,  
+As if this earth in fast thick pants were breathing,  
+A mighty fountain momently was forced:  
+Amid whose swift half-intermitted burst  
+Huge fragments vaulted like rebounding hail,  
+Or chaffy grain beneath the thresher's flail:  
+And 'mid these dancing rocks at once and ever  
+It flung up momently the sacred river.  
+Five miles meandering with a mazy motion  
+Through wood and dale the sacred river ran,  
+Then reached the caverns measureless to man,  
+And sank in tumult to a lifeless ocean:  
+And 'mid this tumult Kubla heard from far  
+Ancestral voices prophesying war!  
+  
+> The shadow of the dome of pleasure  
+Floated midway on the waves;  
+Where was heard the mingled measure  
+From the fountain and the caves.  
+It was a miracle of rare device,  
+A sunny pleasure-dome with caves of ice!  
+  
+> A damsel with a dulcimer  
+In a vision once I saw:  
+It was an Abyssinian maid,  
+And on her dulcimer she played,  
+Singing of Mount Abora.  
+Could I revive within me  
+Her symphony and song,  
+To such a deep delight 'twould win me  
+That with music loud and long  
+I would build that dome in air,  
+That sunny dome! those caves of ice!  
+And all who heard should see them there,  
+And all should cry, Beware! Beware!  
+His flashing eyes, his floating hair!  
+Weave a circle round him thrice,  
+And close your eyes with holy dread,  
+For he on honey-dew hath fed  
+And drunk the milk of Paradise.  
+
+### The Litany Against Fear - Herbert
+> I must not fear.  
+Fear is the mind-killer.  
+Fear is the little-death that brings total obliteration.  
+I will face my fear.  
+I will permit it to pass over me and through me.  
+And when it has gone past I will turn the inner eye to see its path.  
+Where the fear has gone there will be nothing.  
+Only I will remain.  
+
+### If - Kipling
+> If you can keep your head when all about you  
+Are losing theirs and blaming it on you;  
+If you can trust yourself when all men doubt you,  
+But make allowance for their doubting too;  
+If you can wait and not be tired by waiting,  
+Or, being lied about, don't deal in lies,  
+Or, being hated, don't give way to hating,  
+And yet don't look too good, nor talk too wise;  
+  
+> If you can dream - and not make dreams your master;  
+If you can think - and not make thoughts your aim;  
+If you can meet with triumph and disaster  
+And treat those two imposters just the same;  
+If you can bear to hear the truth you've spoken  
+Twisted by knaves to make a trap for fools,  
+Or watch the things you gave your life to broken,  
+And stoop and build 'em up with wornout tools;  
+  
+> If you can make one heap of all your winnings  
+And risk it on one turn of pitch-and-toss,  
+And lose, and start again at your beginnings  
+And never breath a word about your loss;  
+If you can force your heart and nerve and sinew  
+To serve your turn long after they are gone,  
+And so hold on when there is nothing in you  
+Except the Will which says to them: "Hold on";  
+  
+> If you can talk with crowds and keep your virtue,  
+Or walk with kings - nor lose the common touch;  
+If neither foes nor loving friends can hurt you;  
+If all men count with you, but none too much;  
+If you can fill the unforgiving minute  
+With sixty seconds' worth of distance run -  
+Yours is the Earth and everything that's in it,  
+And - which is more - you'll be a Man my son!  
+
+### Do Not Go Gentle Into That Good Night - Thomas
+> Do not go gentle into that good night,  
+Old age should burn and rave at close of day;  
+Rage, rage against the dying of the light.  
+
+> Though wise men at their end know dark is right,  
+Because their words had forked no lightning they  
+Do not go gentle into that good night.  
+
+> Good men, the last wave by, crying how bright  
+Their frail deeds might have danced in a green bay,  
+Rage, rage against the dying of the light.  
+
+> Wild men who caught and sang the sun in flight,  
+And learn, too late, they grieved it on its way,  
+Do not go gentle into that good night.  
+
+> Grave men, near death, who see with blinding sight  
+Blind eyes could blaze like meteors and be gay,  
+Rage, rage against the dying of the light.  
+
+> And you, my father, there on the sad height,  
+Curse, bless me now with your fierce tears, I pray.  
+Do not go gentle into that good night.  
+Rage, rage against the dying of the light.  
+
+### The Second Coming - Yeats
+TURNING and turning in the widening gyre  
+The falcon cannot hear the falconer;  
+Things fall apart; the centre cannot hold;  
+Mere anarchy is loosed upon the world,  
+The blood-dimmed tide is loosed, and everywhere  
+The ceremony of innocence is drowned;  
+The best lack all conviction, while the worst  
+Are full of passionate intensity.  
+
+Surely some revelation is at hand;  
+Surely the Second Coming is at hand.  
+The Second Coming! Hardly are those words out  
+When a vast image out of Spiritus Mundi  
+Troubles my sight: somewhere in sands of the desert  
+A shape with lion body and the head of a man,  
+A gaze blank and pitiless as the sun,  
+Is moving its slow thighs, while all about it  
+Reel shadows of the indignant desert birds.  
+The darkness drops again; but now I know  
+That twenty centuries of stony sleep  
+Were vexed to nightmare by a rocking cradle,  
+And what rough beast, its hour come round at last,  
+Slouches towards Bethlehem to be born?  
+
+[Return to Top](#zeitgeist-lexicon)
+
 ## Client Services Achievements
 * **Just another bug hunt**: Found five bugs during a single round of regression testing.
 * **Bomb squad**: Troubleshoot and resolve a bomb message.
 * **Changing of the guard**: Train a new primary admin on the system after the original admin leaves.
-* **Do You Kiss Your Boss with That Mouth?**: Have a client drop and f-bomb during a phone conversation.
+* **Do You Kiss Your Boss with That Mouth?**: Have a client drop an f-bomb during a phone conversation.
 * **Never Leave Your Wingman**: Assist another CS rep in a phone call.
 * **Once More unto the Breach**: Complete a round of regression testing.
 * **Spring Cleaning**: Remove a customization that has since been productized.
