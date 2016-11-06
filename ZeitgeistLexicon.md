@@ -240,3 +240,39 @@
     - Can also be used in the form of "A thousand times cursed and a thousand times sealed!"
 
 [Return to Top](#zeitgeist-lexicon)
+
+## Potent Quotables
+
+~~~~
+  most of the emails I get are either from former students inquiring about letters of recommendation or people trying to sell me Viagara. If you're a former student, please know I haven't forgotten about you. If you're a person trying to sell me Viagara, bugger off!
+~~~~
+
+~~~~
+  To: support@\*\*.com
+  Subject: haiiiiiiiiiiiiiiiiiiiiiiii
+  Thank you friends for sending this message.send more messages.Thank
+  you very muchhhhhhhhh
+~~~~
+
+~~~~
+  Please describe what an open URL is. PLEASE DO NOT USE ANY TECHNICAL TERMS; your e-mail on this was total Greek to
+  me. In plain, simple English, what does an open URL do that a closed URL does not? Fly, know the meaning to Wooley Booley, 
+  know how to score tickets for Springsteen concerts?
+~~~~
+
+~~~~
+  Dear professor
+  Many thanks for your interesting massage.
+~~~~
+
+~~~~
+  I have a trouble!
+~~~~
+
+~~~~
+  I wood like to have the letter which wrote Franklin Benjamin to the president Adams
+  on 26 of november 1781 about the jewels,and how bedly they effect in the young
+  nation of U.S.A. I thank you !!!
+~~~~
+
+[Return to Top](#zeitgeist-lexicon)
