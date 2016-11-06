@@ -144,3 +144,99 @@
       - **Usage: "Never was there a tale of more woe, than that of Juliet and Ezekiel."
 
 [Return to Top](#zeitgeist-lexicon)
+
+## Proverbs
+  * If an article template is modified in the middle of a forest and no one is around to run a diff, does it create a merge error?
+  * Ceci n'est pas une bomb.
+  * Let sleeping dog's breakfasts lie.
+  * If you want to publish your paper on how you saw Big Foot powered by cold fusion, it's your cow.
+### The Wisdom of Kyle
+  * Sometimes, it's better to kick the butterfly than to miss the hack.
+  * The things that say "Don't edit," you should leave alone.
+  * I was always told to do HTML tags in upper case, but that is no longer the case.
+
+[Return to Top](#zeitgeist-lexicon)
+
+## Acronyms
+  * **COW** Can Of Worms
+  * **GLWT** Good luck with that
+  * **KYLE** Keeping Your Love Exotic
+  * **WFW** Working from Work (as opposed to the more 'normal' WFH for Working From Home)
+  * **ZANE** Zombie Attackers Neatly Eradicated
+
+[Return to Top](#zeitgeist-lexicon)
+
+## General Replacements
+  * **"Such As"**
+    - "Things like" should be replace with "such things as". (IE: "I don't know about such things as abacuses.")
+    - You can also start lists with "such as." (IE: "I went to the store and bought such as cheese wine beer and materials such as to make sandwiches.")
+  * **"Mega"** should always be replaced with "Giga" where-ever, when-ever you feel is appropriate and / or 'awesome'.
+  * **"Hella"** should be replaced with "Hell of" at all times.
+  * **"Like"** (IE: "I did, like, some stuff.") should always replaced by "Basically". (IE: "I did basically some stuff.")
+  * **"Word"** should be replaced with "Warg." (IE: "I'm gonna go home and play Dwarf Fortress until I pass out." "Warg.")
+  * **"Dog"** should be replaced with "Dawg." (IE: "Dawg, this is gonna be a JIRA ticket.")
+    - Exceptions: This does not include using "dog" as part of a phrase, such as "dog's breakfast."
+    
+[Return to Top](#zeitgeist-lexicon)
+
+## Compliments
+  * Oh! Oh! You are a **SHOOOWWW-STOPPAH!** (*Whilst Swaggering About*)
+  * Okay, listen. I like you hair, and I like your style.
+  * You are **party**. *You do what you want*.
+
+[Return to Top](#zeitgeist-lexicon)
+
+## Exasperations and Expletives
+
+### A new scale on which to rate things
+  - The scale of shigs. I generally rate things out of five of them.
+    - Something grand: That's some sick shigs!
+    - Something good: Four shigs, dogg!
+    - Something bad: That's not even worth one shig.
+
+### Positive
+  - 5 Sure! - One more than the standard 'for sure!'
+  - Aww Shiggity!
+  - BOOYA-KASHA!
+  - A Bracing Curative For The Afflictions Of Our Time!!!
+  - [Brick on a rope](http://lackadaisycats.com/exhibit.php?exhibitid=219)!
+  - Brill!
+  - Buxom!
+  - Funky Cold Medina!
+  - Great Success!
+  - Gekks Tea! - Use if something deserves more than a Hells Yea!
+  - Groovalicious (a technical term from the macroeconomics literature) - OTRS
+  - **HOLY CATS!** - [Intellivision Advanced Dungeons and Dragons 1982](https://www.youtube.com/watch?v=j7MlwiCBGuw)
+  - Oh! That is truly the limit.
+  - Oh dogg on a hogg man!
+  - STRONGSAUCE! (Opposite of [Weaksauce](#weaksauce))
+  - Shake ya ticket!
+  - You remind me of BEJEAP!...
+  - **That's / That is ...**
+    - That is the Bomb Diggity!
+    - That's the cats ass! (Canadian Turn-of-Phrase)
+    - That's a delight to the five senses! (Much Respeck Char)
+    - That's happenin'! (Mad props to Mr. Windchy)
+    - That's what I'm talkin' about! (Big Ups to Mr. Windchy)
+    - That is not quite the biscuit.
+      - You may have noticed that this phrase is listed under "Positive," yet it sounds negative. It is to be used when something is good, but not as good as it could be, or not really the best example of its thingness. "Man, I enjoyed that movie, but compared to his other films, that one was just not quite the biscuit."
+
+### Negative
+  - Attending to a Misoriented Word Causes the Eyeball to Rotate in the Head! (See CDL Postprint 5988)
+  - Caflooey!
+  - DAMN YOUR EYES!
+  - Flimshaw! usually prefaced by 'Barsh'
+  - I AM WORRY NOW!
+  - FARK!
+  - That is the dog's breakfast!
+  - Man, why you even got to do a thing?
+  - The web is dead.
+  - WEAKSAUCE! (Opposite of strongsauce)
+  - Where's the beef?
+  - Wuh T'evser!
+  - Zark off!
+  - **(INSERT YOUR CHOSEN DEITY, WITH A FEW EXTRA MIDDLE INITIALS, HERE) ON A GINGER-CANE**
+  - I quit this phone call! I quit it **one thousand times!**
+    - Can also be used in the form of "A thousand times cursed and a thousand times sealed!"
+
+[Return to Top](#zeitgeist-lexicon)
