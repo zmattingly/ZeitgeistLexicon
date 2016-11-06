@@ -279,3 +279,44 @@
 ~~~~
 
 [Return to Top](#zeitgeist-lexicon)
+
+## Questionable Resumes
+  * I also have a wide breadth of experience of the type that gives you the versatility to place me in a number of contexts with confidence that the level of excellence you expect will be met.
+  * ...I'm hungry to roll up my sleeves...      
+  * Dear Mr. Doe:
+  * ...I consider myself somewhat of a technological mastermind...
+  * ~~~~
+    Awaiting the favour of your prompt
+    attention, I am, Sir,
+    Yours faithfully,
+    (name redacted)
+    ~~~~
+
+[Return to Top](#zeitgeist-lexicon)
+
+## Film
+### A Clockwork Orange
+* There was me, that is Alex, and my three droogs, that is Pete, Georgie, and Dim, and we sat in the Korova Milkbar trying to make up our rassoodocks what to do with the evening. The Korova milkbar sold milk-plus, milk plus vellocet or synthemesc or drencrom, which is what we were drinking. This would sharpen you up and make you ready for a bit of the old ultra-violence.
+* What you got back home, little sister, to play your fuzzy warbles on? I bet you got, say, pitiful, portable picnic players. Come with uncle and hear all proper! Hear angels' trumpets and devils' trombones. You are invited!
+* Viddy well O my brothers.
+* [Nadsat Lexicon](https://en.wikipedia.org/wiki/English_to_Nadsat)
+
+### Conan the Barbarian
+* **Mongol General**: Hao! Dai ye! We won again! This is good, but what is best in life?  
+  **Mongol**: The open steppe, fleet horse, falcons at your wrist, and the wind in your hair.  
+  **Mongol General**: Wrong! Conan! What is best in life?  
+  **Conan**: To crush your enemies, see them driven before you, and to hear the lamentation of the women.  
+  **Mongol General**: That is good! That is good.  
+* **Conan**: Crom, I have never prayed to you before. I have no tongue for it. No one, not even you, will remember if we were good men or bad. Why we fought, or why we died. All that matters is that today, two stood against many. That's what's important! Valor pleases you Crom, so grant me this one request. Grant me revenge! And if you do not listen, then to hell with you!
+
+### Forbidden Planet
+* **Robby the Robot**: If you do not speak English, I am at your disposal with 187 other languages along with their various dialects and *sub-tongues*.
+
+### Kung Fu Hustle
+* If you're short, don't retort.
+* Horrifically Bad Fate
+
+### The Matrix
+* **Agent Smith**: I hate this place. This zoo. This prison. This reality, whatever you want to call it, I can't stand it any longer. It's the smell, if there is such a thing. I feel saturated by it. I can taste your stink and every time I do, I fear that I've somehow been infected by it.
+
+[Return to Top](#zeitgeist-lexicon)
