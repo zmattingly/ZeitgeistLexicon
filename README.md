@@ -1,4 +1,4 @@
-# README
+# Zeitgeist Lexicon
 
 The Official Source of Inside Jokes.
 
