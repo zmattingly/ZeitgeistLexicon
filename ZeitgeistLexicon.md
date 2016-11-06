@@ -281,16 +281,10 @@
 [Return to Top](#zeitgeist-lexicon)
 
 ## Questionable Resumes
-  * I also have a wide breadth of experience of the type that gives you the versatility to place me in a number of contexts with confidence that the level of excellence you expect will be met.
-  * ...I'm hungry to roll up my sleeves...      
-  * Dear Mr. Doe:
-  * ...I consider myself somewhat of a technological mastermind...
-  * ~~~~
-    Awaiting the favour of your prompt
-    attention, I am, Sir,
-    Yours faithfully,
-    (name redacted)
-    ~~~~
+* I also have a wide breadth of experience of the type that gives you the versatility to place me in a number of contexts with confidence that the level of excellence you expect will be met.
+* ...I'm hungry to roll up my sleeves...      
+* Dear Mr. Doe:
+* ...I consider myself somewhat of a technological mastermind...
 
 [Return to Top](#zeitgeist-lexicon)
 
