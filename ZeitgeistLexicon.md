@@ -45,102 +45,102 @@
 ## The Glossary Of Man
 
 ### A
-  - Amazingly Tent (*anagram*) Zane Mattingly.
-  - Authrozied (*typhy*) Jived certification.
-    - Usage: "Halt! This dance cordon is a authrozied area!"
-  - Avalancha (*verb*) when it rocks so hard its comparable to an avalanche.
-    - Usage: "That was the greatest show ever! That was Avalancha!"
+  - **Amazingly Tent** (*anagram*) Zane Mattingly.
+  - **Authrozied** (*typhy*) Jived certification.
+    - **Usage: "Halt! This dance cordon is a authrozied area!"
+  - **Avalancha** (*verb*) when it rocks so hard its comparable to an avalanche.
+    - **Usage: "That was the greatest show ever! That was Avalancha!"
 
 ### B
-  - Bor (*noun*) A boorish bro.
-    - Usage: "DUDE! Bor, way to chunder all over my new rug... Way good of you."
+  - **Bor** (*noun*) A boorish bro.
+    - **Usage: "DUDE! Bor, way to chunder all over my new rug... Way good of you."
 
 ### C
-  - 'Con (*noun*) The Confluence Zeitgeist Lexicon.
-    - Usage (*noun*) : "Aw man, I saw the 'con! Best. Confluence. Page. Ever. Five shigs!"
-    - Usage (*verb*) : "Dood, that turn-of-phrase is hilarious! That's totally gotta get 'conned!"
-  - Crenelate (*verb*) To adorn with crenelations, battlements, gargoyles, party hats, etc.
-    - Usage: "Hey damn dude, don't be messin with my robots and adornments. I got a license to crenelate!!!"
+  - **'Con** (*noun*) The Confluence Zeitgeist Lexicon.
+    - **Usage** (*noun*) : "Aw man, I saw the 'con! Best. Confluence. Page. Ever. Five shigs!"
+    - **Usage** (*verb*) : "Dood, that turn-of-phrase is hilarious! That's totally gotta get 'conned!"
+  - **Crenelate** (*verb*) To adorn with crenelations, battlements, gargoyles, party hats, etc.
+    - **Usage: "Hey damn dude, don't be messin with my robots and adornments. I got a license to crenelate!!!"
 
 ### E
-  - Ellipsist (*noun*) Profession. Being of the type who thinks themselves a wordsmith, an Ellipsist uses Ellipses to absurd ends.
-    - Usage: "... I AM AN... ELLIPSIST! ..."
-  - Ergo, Vis A Vis, Concordantly (*adv.*) The Matrix Revolutions sucks.
+  - **Ellipsist** (*noun*) Profession. Being of the type who thinks themselves a wordsmith, an Ellipsist uses Ellipses to absurd ends.
+    - **Usage: "... I AM AN... ELLIPSIST! ..."
+  - **Ergo, Vis A Vis, Concordantly** (*adv.*) The Matrix Revolutions sucks.
 ### F
-  - Funkage (*verb*) Use in place of expletive deleted in all situations involving funk
-    - Usage: "..Zane, what the hell, Trey Anastasio totally funking rocks.."
+  - **Funkage** (*verb*) Use in place of expletive deleted in all situations involving funk
+    - **Usage: "..Zane, what the hell, Trey Anastasio totally funking rocks.."
 
 ### G
-  - Garnish Ma Jive (*anagram*) Samira Vijghen.
-  - Genius - Much Of A, I Am So, Sit On A (*meme*) Brilliant.
-    - Usage: "I am so genius, these bushes is holes." "Michael Cera's performance as George Michael is much of a genius." "dude did you just sit on a genius ! ?"
-  - Give Me A Mo' (*meme*) Hold up!
-    - Usage: "Hey hey, I dropped my manwich guys. Give me a mo'!"
+  - **Garnish Ma Jive** (*anagram*) Samira Vijghen.
+  - **Genius - Much Of A, I Am So, Sit On A** (*meme*) Brilliant.
+    - **Usage: "I am so genius, these bushes is holes." "Michael Cera's performance as George Michael is much of a genius." "dude did you just sit on a genius ! ?"
+  - **Give Me A Mo'** (*meme*) Hold up!
+    - **Usage: "Hey hey, I dropped my manwich guys. Give me a mo'!"
 
 ### H
-  - Hundo (*noun*) A hundred dollars. Use when you are so familiar with benjamins that you'd like to give them a nickname.
+  - **Hundo** (*noun*) A hundred dollars. Use when you are so familiar with benjamins that you'd like to give them a nickname.
   
 ### K
-  - Kiks (*verb*) One letter off from from a Lol.
-    - Usage: KIKS! XD
+  - **Kiks** (*verb*) One letter off from from a Lol.
+    - **Usage: KIKS! XD
 
 ### M
-  - Munchies To Try (*anagram*) Courtney Smith.
+  - **Munchies To Try** (*anagram*) Courtney Smith.
 
 ### N
-  - Nimja (*noun*) - Nimble Ninja
-  - Noiseless Sky (*anagram*) Kyle Sessions. NINJA!
+  - **Nimja** (*noun*) - Nimble Ninja
+  - **Noiseless Sky** (*anagram*) Kyle Sessions. NINJA!
 
 ### O
-  - One Snake Length (*anagram*) Kenneth Gleason
-  - Over-the-top-ulous (*adj.*) Description of an event or occurrence that is basically way out there... an absurdity. See also: [Rickshawculous](*#R*)
-  - Usage: "Dood, that Karma Chameleon screamin was pretty Over-the-top-ulous and not in the good way."
+  - **One Snake Length** (*anagram*) Kenneth Gleason
+  - **Over-the-top-ulous** (*adj.*) Description of an event or occurrence that is basically way out there... an absurdity. See also: [Rickshawculous](#R)
+  - **Usage: "Dood, that Karma Chameleon screamin was pretty Over-the-top-ulous and not in the good way."
   
 ### P
-  - Paint It By Eye (*meme*) Play it by ear.
-    - Usage: "I dunno if I can drop a jump that high, lets Paint It By Eye."
-  - Pull A Kyle (*meme*) To sunburn.
-    - Usage: "Oh man, I'm mad blistery and boiley. I Pulled A Kyle this weekend."
+  - **Paint It By Eye** (*meme*) Play it by ear.
+    - **Usage: "I dunno if I can drop a jump that high, lets Paint It By Eye."
+  - **Pull A Kyle** (*meme*) To sunburn.
+    - **Usage: "Oh man, I'm mad blistery and boiley. I Pulled A Kyle this weekend."
 ### R
-  - Restaurantage (*noun / verb*) When the only thing that will cure what ails you is eating out.
-    - Usage (*noun*): "Man, I'm famished, what's up with the restaurantage around these parts?"
-    - Usage (*verb*): "Let's restaurantage dawg!"
-  - Reverse The Polarity (*meme*) Ultimate Solution. If in a bind, be sure try reversing the polarity to solve your problem.
-  - Rickshawculous (*adj.*) Absolutely astounding in a manner which may cause you to have to sit down and be carted off. See also: [Over-the-top-ulous](*#O*)
-    - Usage: "FIVE SHIGS! FIVE SHIGS! I'm gettin woozy here! That was rickshawculous!!!"
-  - Roboticity (*noun*) The quality or condition of being machine; automaticity nature.
-    - Usage: "It's crashing. It's crashing terrible. Oh, my get out of the way, please. It's bursting into flames. OH THE ROBOTICITY!!!"
-  - Rue! (*verb/exp.*) To regret fiercely.
-    - Usage: "RUE TO YOU!"
+  - **Restaurantage** (*noun / verb*) When the only thing that will cure what ails you is eating out.
+    - **Usage** (*noun*): "Man, I'm famished, what's up with the restaurantage around these parts?"
+    - **Usage** (*verb*): "Let's restaurantage dawg!"
+  - **Reverse The Polarity** (*meme*) Ultimate Solution. If in a bind, be sure try reversing the polarity to solve your problem.
+  - **Rickshawculous** (*adj.*) Absolutely astounding in a manner which may cause you to have to sit down and be carted off. See also: [Over-the-top-ulous](#O)
+    - **Usage: "FIVE SHIGS! FIVE SHIGS! I'm gettin woozy here! That was rickshawculous!!!"
+  - **Roboticity** (*noun*) The quality or condition of being machine; automaticity nature.
+    - **Usage: "It's crashing. It's crashing terrible. Oh, my get out of the way, please. It's bursting into flames. OH THE ROBOTICITY!!!"
+  - **Rue!** (*verb/exp.*) To regret fiercely.
+    - **Usage: "RUE TO YOU!"
 
 ### S
-  - Sick Hackin - (*anagram*) Nick Kichas.
-  - Sirius (*adj*) Use when things are even more darkly grim than serious can specify.
-    - Black (*modifier*) Tack onto the end of Sirius when the situation is so sirius that the MoM may need to dispatch an [Accidental Magic Reversal Squad](*http://harrypotter.wikia.com/wiki/Accidental_Magic_Reversal_Squad*).
-    - Usage: "Dogg, that shawarma and lemonade was the most grelicious think I've ever eaten! So grelicious I'm gonna die! I'm sirius! Sirius Black!
-  - Spate Plate (*noun*) An outpouring overwhelming amount of food, too much for you to handle.
-    - Usage: "Oh good lord man, why did we ever go to this [All You Can Eat Sushi Restaurant](*https://www.yelp.com/biz/akasaka-sushi-berkeley*)? My bento box is more like a spate plate."
-  - Sucks The Cerebellum (*meme*) Blows the mind.
-    - Usage: "That was an amazing demitour! It sucked my cerebellum!!!"
-  - Sugar Chicane (*meme*) Sweetly deceptive.
-    - Usage: "Man, that girl was straight up Bonnita C. Malarkey. I mean, she hit me over the head with a Sugar Chicane.
+  - **Sick Hackin -** (*anagram*) Nick Kichas.
+  - **Sirius** (*adj*) Use when things are even more darkly grim than serious can specify.
+    - **Black** (*modifier*) Tack onto the end of Sirius when the situation is so sirius that the MoM may need to dispatch an [Accidental Magic Reversal Squad](http://harrypotter.wikia.com/wiki/Accidental_Magic_Reversal_Squad).
+    - **Usage: "Dogg, that shawarma and lemonade was the most grelicious think I've ever eaten! So grelicious I'm gonna die! I'm sirius! Sirius Black!
+  - **Spate Plate** (*noun*) An outpouring overwhelming amount of food, too much for you to handle.
+    - **Usage: "Oh good lord man, why did we ever go to this [All You Can Eat Sushi Restaurant](https://www.yelp.com/biz/akasaka-sushi-berkeley)? My bento box is more like a spate plate."
+  - **Sucks The Cerebellum** (*meme*) Blows the mind.
+    - **Usage: "That was an amazing demitour! It sucked my cerebellum!!!"
+  - **Sugar Chicane** (*meme*) Sweetly deceptive.
+    - **Usage: "Man, that girl was straight up Bonnita C. Malarkey. I mean, she hit me over the head with a Sugar Chicane.
 
 ### T
-  - Ti-Wied (*adj*) Tired/Wired.
-    - Usage: "Dude, I did hardly get much sleep last night but I got bug energy. I'm way ti-wied."
-  - A Toilet Seat that Smokes a Cigar (*noun*) The ultimate insult.
-    - Usage: "[You are a toilet seat that smokes a cigar / forever that is what you are / a toilet seat that smokes a cigar. The end.](*http://achewood.com/index.php?date=03162007*)"
-  - Tunker (*verb*) Hunkering down to do some serious tinkering.
-    - Usage: "Effff. I just blew up my tree and I need an adult. Mind if I tunker over on yours?"
+  - **Ti-Wied** (*adj*) Tired/Wired.
+    - **Usage: "Dude, I did hardly get much sleep last night but I got bug energy. I'm way ti-wied."
+  - **A Toilet Seat that Smokes a Cigar** (*noun*) The ultimate insult.
+    - **Usage: "[You are a toilet seat that smokes a cigar / forever that is what you are / a toilet seat that smokes a cigar. The end.](http://achewood.com/index.php?date=03162007)"
+  - **Tunker** (*verb*) Hunkering down to do some serious tinkering.
+    - **Usage: "Effff. I just blew up my tree and I need an adult. Mind if I tunker over on yours?"
 
 ### U
-  - Überveillance (*noun*) OVERWATCH!
-    - Usage: "The transhuman Combine forces provide valuable überveillance in surveying the citizens of City 17."
-    - See: [A Research Note on Ethics in the Emerging Age of Uberveillance (*Überveillance*)](*https://works.bepress.com/kmichael/32/*)
-    - See: [Uberveillance cements its position as an official dictionary word](*http://media.uow.edu.au/news/UOW073050.html*)
+  - **Überveillance** (*noun*) OVERWATCH!
+    - **Usage: "The transhuman Combine forces provide valuable überveillance in surveying the citizens of City 17."
+    - **See: [A Research Note on Ethics in the Emerging Age of Uberveillance** (*Überveillance*)](https://works.bepress.com/kmichael/32/)
+    - **See: [Uberveillance cements its position as an official dictionary word](http://media.uow.edu.au/news/UOW073050.html)
 ### W
-  - Wanton Hack Eel (*anagram*) Kathleen Cowan.
-  - Woe (*noun/exp.*) Infinitum Sad. :*(*
-      - Usage: "Never was there a tale of more woe, than that of Juliet and Ezekiel."
+  - **Wanton Hack Eel** (*anagram*) Kathleen Cowan.
+  - **Woe** (*noun/exp.*) Infinitum Sad. :*(*
+      - **Usage: "Never was there a tale of more woe, than that of Juliet and Ezekiel."
 
-[Return to Top](*#zeitgeist-lexicon*)
+[Return to Top](#zeitgeist-lexicon)
