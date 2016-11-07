@@ -98,6 +98,7 @@
   - **Ellipsist** (*noun*) Profession. Being of the type who thinks themselves a wordsmith, an Ellipsist uses Ellipses to absurd ends.
     - Usage: "... I AM AN... ELLIPSIST! ..."
   - **Ergo, Vis A Vis, Concordantly** (*adv.*) The Matrix Revolutions sucks.
+  
 ### F
   - **Funkage** (*verb*) Use in place of expletive deleted in all situations involving funk
     - Usage: "..Zane, what the hell, Trey Anastasio totally funking rocks.."
@@ -133,6 +134,7 @@
     - Usage: "I dunno if I can drop a jump that high, lets Paint It By Eye."
   - **Pull A Kyle** (*meme*) To sunburn.
     - Usage: "Oh man, I'm mad blistery and boiley. I Pulled A Kyle this weekend."
+    
 ### R
   - **Restaurantage** (*noun / verb*) When the only thing that will cure what ails you is eating out.
     - Usage (*noun*): "Man, I'm famished, what's up with the restaurantage around these parts?"
