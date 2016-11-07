@@ -256,7 +256,7 @@
       - You may have noticed that this phrase is listed under "Positive," yet it sounds negative. It is to be used when something is good, but not as good as it could be, or not really the best example of its thingness. "Man, I enjoyed that movie, but compared to his other films, that one was just not quite the biscuit."
 
 ### Negative
-  - Attending to a Misoriented Word Causes the Eyeball to Rotate in the Head! (See CDL Postprint 5988)
+  - [Attending to a Misoriented Word Causes the Eyeball to Rotate in the Head](http://escholarship.org/uc/item/0rd5f3hp)!
   - Caflooey!
   - DAMN YOUR EYES!
   - Flimshaw! usually prefaced by 'Barsh'
