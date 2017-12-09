@@ -215,7 +215,7 @@
 
 ## Compliments
   * Oh! Oh! You are a **SHOOOWWW-STOPPAH!** (*Whilst Swaggering About*)
-  * Okay, listen. I like you hair, and I like your style.
+  * Okay, listen. I like your hair, and I like your style.
   * You are **party**. *You do what you want*.
 
 [Return to Top](#zeitgeist-lexicon)
